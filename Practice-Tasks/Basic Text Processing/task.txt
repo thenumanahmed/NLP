@@ -1,0 +1,5 @@
+Performing the following tasks using nltk library
+tokenize at sentence level
+tokenize at word level
+stemming using porter stemmer
+lemmatization
