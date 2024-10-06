@@ -1,0 +1,63 @@
+<s>	2
+<s> this	1
+<s> this is	1
+<s> NLP	1
+<s> NLP stands	1
+</s>	2
+this	1
+this is	1
+this is the	1
+is	1
+is the	1
+is the file	1
+the	1
+the file	1
+the file containing	1
+file	1
+file containing	1
+file containing sample	1
+containing	1
+containing sample	1
+containing sample text	1
+sample	1
+sample text	1
+sample text for	1
+text	1
+text for	1
+text for language	1
+for	2
+for language	1
+for language model	1
+for Natural	1
+for Natural Language	1
+language	1
+language model	1
+language model generating	1
+model	1
+model generating	1
+model generating using	1
+generating	1
+generating using	1
+generating using SRILM	1
+using	1
+using SRILM	1
+using SRILM toolkit.	1
+SRILM	1
+SRILM toolkit.	1
+SRILM toolkit. </s>	1
+toolkit.	1
+toolkit. </s>	1
+NLP	1
+NLP stands	1
+NLP stands for	1
+stands	1
+stands for	1
+stands for Natural	1
+Natural	1
+Natural Language	1
+Natural Language Processing.	1
+Language	1
+Language Processing.	1
+Language Processing. </s>	1
+Processing.	1
+Processing. </s>	1

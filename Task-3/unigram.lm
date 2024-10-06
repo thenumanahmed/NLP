@@ -1,0 +1,28 @@
+
+\data\
+ngram 1=21
+
+\1-grams:
+-1.041393	</s>
+-99	<s>
+-1.342423	Language
+-1.342423	NLP
+-1.342423	Natural
+-1.342423	Processing.
+-1.342423	SRILM
+-1.342423	containing
+-1.342423	file
+-1.041393	for
+-1.342423	generating
+-1.342423	is
+-1.342423	language
+-1.342423	model
+-1.342423	sample
+-1.342423	stands
+-1.342423	text
+-1.342423	the
+-1.342423	this
+-1.342423	toolkit.
+-1.342423	using
+
+\end\

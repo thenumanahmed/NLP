@@ -1,0 +1,56 @@
+
+\data\
+ngram 1=21
+ngram 2=22
+ngram 3=0
+
+\1-grams:
+-1.041393	</s>
+-99	<s>	-99
+-1.342423	Language	-99
+-1.342423	NLP	-99
+-1.342423	Natural	-99
+-1.342423	Processing.	-99
+-1.342423	SRILM	-99
+-1.342423	containing	-99
+-1.342423	file	-99
+-1.041393	for	-99
+-1.342423	generating	-99
+-1.342423	is	-99
+-1.342423	language	-99
+-1.342423	model	-99
+-1.342423	sample	-99
+-1.342423	stands	-99
+-1.342423	text	-99
+-1.342423	the	-99
+-1.342423	this	-99
+-1.342423	toolkit.	-99
+-1.342423	using	-99
+
+\2-grams:
+-0.30103	<s> NLP
+-0.30103	<s> this
+0	Language Processing.
+0	NLP stands
+0	Natural Language
+0	Processing. </s>
+0	SRILM toolkit.
+0	containing sample
+0	file containing
+-0.30103	for Natural
+-0.30103	for language
+0	generating using
+0	is the
+0	language model
+0	model generating
+0	sample text
+0	stands for
+0	text for
+0	the file
+0	this is
+0	toolkit. </s>
+0	using SRILM
+
+\3-grams:
+
+\end\
